@@ -5,7 +5,7 @@ Requires the `boxen` puppet module.
 ## Usage
 
 ```puppet
-include istatmenus4
+include istatmenus
 ```
 
 ## Developing
